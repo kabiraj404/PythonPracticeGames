@@ -48,18 +48,13 @@ driver.quit()
 
 #for Nepali times 
 driver = webdriver.Firefox(executable_path="D:/OneDrive - ICIMOD/python/seleniumGekoDriver/geckodriver.exe")
-
 driver.set_window_position(1, 1)
 
 driver.get("https://www.nepalitimes.com/")
-
 urlgor = driver.find_elements_by_xpath("/html/body/div[1]/div[4]/div/main/section[1]/div/div[1]/div[2]/div[1]/div[6]/a")[0]
 urlgor.click()
-
 driver.switch_to.window(driver.window_handles[1])
-
 time.sleep(5)
-
 url3 = driver.current_url
 
 gp = requests.get(url3, allow_redirects = True)
