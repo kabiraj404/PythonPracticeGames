@@ -502,3 +502,152 @@ JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/d
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1604722131694	geckodriver	INFO	Listening on 127.0.0.1:63323
+1604722134753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilegDWIQ1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604722143638	Marionette	INFO	Listening on port 63348
+1604722143739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604722171711	Marionette	INFO	Stopped listening on port 63348
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604722173054	geckodriver	INFO	Listening on 127.0.0.1:63548
+1604722176115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilec3p7MC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604722179944	Marionette	INFO	Listening on port 63566
+1604722180045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 213: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1604722210350	Marionette	INFO	Stopped listening on port 63566
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604732362708	geckodriver	INFO	Listening on 127.0.0.1:63710
+1604732365753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileAQaFyA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604732369959	Marionette	INFO	Listening on port 63718
+1604732370208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mfd.gov.np/mfd.gov.np/_bootstrap/js/bootstrap.min.js, line 11: TypeError: e[0] is undefined
+1604732458849	Marionette	INFO	Stopped listening on port 63718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604732541246	geckodriver	INFO	Listening on 127.0.0.1:63887
+1604732544303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilegeELTK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604732547861	Marionette	INFO	Listening on port 63895
+1604732548248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mfd.gov.np/mfd.gov.np/_bootstrap/js/bootstrap.min.js, line 11: TypeError: e[0] is undefined
+1604733027726	Marionette	INFO	Stopped listening on port 63895
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileeNdRvz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604732725500	Marionette	INFO	Listening on port 64051
+1604732725758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mfd.gov.np/mfd.gov.np/_bootstrap/js/bootstrap.min.js, line 11: TypeError: e[0] is undefined
+1604732863381	Marionette	INFO	Stopped listening on port 64051
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604732907258	geckodriver	INFO	Listening on 127.0.0.1:64173
+1604732910294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilek4ajmQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604732913968	Marionette	INFO	Listening on port 64181
+1604732914209	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15412, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: http://mfd.gov.np/mfd.gov.np/_bootstrap/js/bootstrap.min.js, line 11: TypeError: e[0] is undefined
+[Parent 15412, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604733026919	Marionette	INFO	Stopped listening on port 64181
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604732976088	Marionette	INFO	Listening on port 64274
+1604732976603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mfd.gov.np/mfd.gov.np/_bootstrap/js/bootstrap.min.js, line 11: TypeError: e[0] is undefined
+1604733026207	Marionette	INFO	Stopped listening on port 64274
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
