@@ -651,3 +651,790 @@ JavaScript error: http://mfd.gov.np/mfd.gov.np/_bootstrap/js/bootstrap.min.js, l
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1604836076765	geckodriver	INFO	Listening on 127.0.0.1:61982
+1604836079828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofile4ED2mW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604836085405	Marionette	INFO	Listening on port 61990
+1604836085954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mfd.gov.np/mfd.gov.np/_bootstrap/js/bootstrap.min.js, line 11: TypeError: e[0] is undefined
+1604836117738	Marionette	INFO	Stopped listening on port 61990
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604836171452	geckodriver	INFO	Listening on 127.0.0.1:62081
+1604836174489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileimYVTu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604836177587	Marionette	INFO	Listening on port 62089
+1604836177747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604836181212	Marionette	INFO	Stopped listening on port 62089
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604836182414	geckodriver	INFO	Listening on 127.0.0.1:62143
+1604836185465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileZYxm4e"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604836188608	Marionette	INFO	Listening on port 62151
+1604836188708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 213: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1604836224398	Marionette	INFO	Stopped listening on port 62151
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604903771211	geckodriver	INFO	Listening on 127.0.0.1:60387
+1604903774381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileIGibiw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604903779982	Marionette	INFO	Listening on port 60395
+1604903780316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604903785769	Marionette	INFO	Stopped listening on port 60395
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604903978429	geckodriver	INFO	Listening on 127.0.0.1:60514
+1604903981455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilemb3vdf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604903985601	Marionette	INFO	Listening on port 60524
+1604903985830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604903991192	Marionette	INFO	Stopped listening on port 60524
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604903994427	geckodriver	INFO	Listening on 127.0.0.1:60588
+1604903997465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilelgsmpi"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604904000861	Marionette	INFO	Listening on port 60596
+[Parent 12252, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604904001324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 213: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1604904035921	Marionette	INFO	Stopped listening on port 60596
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605008097198	geckodriver	INFO	Listening on 127.0.0.1:61695
+1605008100568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileJcw5ZV"
+1605008136114	geckodriver	INFO	Listening on 127.0.0.1:61789
+1605008139151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileaRMo1q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605008143148	Marionette	INFO	Listening on port 61798
+1605008143590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605008151458	Marionette	INFO	Stopped listening on port 61798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605008183483	geckodriver	INFO	Listening on 127.0.0.1:61878
+1605008186545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilezjSoKn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605008190123	Marionette	INFO	Listening on port 61886
+1605008190481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1605008232086	Marionette	INFO	Stopped listening on port 61886
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605008233212	geckodriver	INFO	Listening on 127.0.0.1:61965
+1605008236261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofile3MaWHW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605008239079	Marionette	INFO	Listening on port 61973
+1605008239571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 213: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1605008267727	Marionette	INFO	Stopped listening on port 61973
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605105926931	geckodriver	INFO	Listening on 127.0.0.1:62719
+1605105930563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileDpWzmb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605105936991	Marionette	INFO	Listening on port 62727
+1605105937350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605105946768	Marionette	INFO	Stopped listening on port 62727
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605106056086	geckodriver	INFO	Listening on 127.0.0.1:62895
+1605106059177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileleZKll"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605106063007	Marionette	INFO	Listening on port 62903
+1605106063065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1605106106151	Marionette	INFO	Stopped listening on port 62903
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605106107529	geckodriver	INFO	Listening on 127.0.0.1:62979
+1605106110595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileZfLGDD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605106114657	Marionette	INFO	Listening on port 62987
+1605106115027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 213: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1605106155033	Marionette	INFO	Stopped listening on port 62987
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605170889020	geckodriver	INFO	Listening on 127.0.0.1:61359
+1605170892075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofile6TOYpD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605170897254	Marionette	INFO	Listening on port 61367
+1605170897719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1605170948153	Marionette	INFO	Stopped listening on port 61367
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605170950330	geckodriver	INFO	Listening on 127.0.0.1:61446
+1605170953355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofile3cBMD9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605170956765	Marionette	INFO	Listening on port 61458
+1605170957298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 213: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=25
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1605171005795	Marionette	INFO	Stopped listening on port 61458
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605180960092	geckodriver	INFO	Listening on 127.0.0.1:63930
+1605180963137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilekan6kO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605180967959	Marionette	INFO	Listening on port 63938
+1605180968345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://worldweather.wmo.int/en/widget.html?sty=22&name=Kathmandu+Nepal, line 150: ReferenceError: nofclist is not defined
+1605180977484	Marionette	INFO	Stopped listening on port 63938
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605245004431	geckodriver	INFO	Listening on 127.0.0.1:61751
+1605245007500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofiletw46SR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605245014855	Marionette	INFO	Listening on port 61759
+1605245015293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605245023272	Marionette	INFO	Stopped listening on port 61759
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605245240014	geckodriver	INFO	Listening on 127.0.0.1:61876
+1605245243037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilenBF2CZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605245246036	Marionette	INFO	Listening on port 61887
+1605245246327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1605245289509	Marionette	INFO	Stopped listening on port 61887
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605245290693	geckodriver	INFO	Listening on 127.0.0.1:61955
+1605245293722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofile4OCxvX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605245297015	Marionette	INFO	Listening on port 61963
+1605245297142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 213: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 777: TypeError: this.dataListener is null
+1605245322484	Marionette	INFO	Stopped listening on port 61963
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605334609929	geckodriver	INFO	Listening on 127.0.0.1:59880
+1605334612980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileDD1VO3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605334616935	Marionette	INFO	Listening on port 59888
+1605334617410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1605334646838	Marionette	INFO	Stopped listening on port 59888
+[Parent 7320, Gecko_IOThread] WARNING: pipe error: 995: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 485
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605334648151	geckodriver	INFO	Listening on 127.0.0.1:59964
+1605334651199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilenwibgj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605334655206	Marionette	INFO	Listening on port 59973
+1605334655622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 213: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+J1605334683793	Marionette	INFO	Stopped listening on port 59973
+avaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605424759369	geckodriver	INFO	Listening on 127.0.0.1:53399
+1605424762445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileavvP1K"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605424767094	Marionette	INFO	Listening on port 53407
+1605424767821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605424776131	Marionette	INFO	Stopped listening on port 53407
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605424806337	geckodriver	INFO	Listening on 127.0.0.1:53484
+1605424809378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofile3YeQVX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605424812540	Marionette	INFO	Listening on port 53492
+1605424812907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1605424857361	Marionette	INFO	Stopped listening on port 53492
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605424858646	geckodriver	INFO	Listening on 127.0.0.1:53558
+1605424861706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileFZF56G"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605424865080	Marionette	INFO	Listening on port 53566
+1605424865601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 213: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1605429260805	Marionette	INFO	Stopped listening on port 53566
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605542763005	geckodriver	INFO	Listening on 127.0.0.1:63306
+1605542766118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileaEuaEm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605542771302	Marionette	INFO	Listening on port 63314
+1605542771655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605542776385	Marionette	INFO	Stopped listening on port 63314
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605681808125	geckodriver	INFO	Listening on 127.0.0.1:64192
+1605681811210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileluan9C"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605681816002	Marionette	INFO	Listening on port 64200
+1605681816241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1605681879514	Marionette	INFO	Stopped listening on port 64200
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605681880837	geckodriver	INFO	Listening on 127.0.0.1:64291
+1605681883869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileverbOD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605681887082	Marionette	INFO	Listening on port 64299
+1605681887200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 212: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1605681918070	Marionette	INFO	Stopped listening on port 64299
+[Parent 12852, Gecko_IOThread] WARNING: pipe error: 995: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 485
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605682274304	geckodriver	INFO	Listening on 127.0.0.1:64520
+1605682277366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileEvbCfl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605682280223	Marionette	INFO	Listening on port 64529
+1605682280688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605682332367	Marionette	INFO	Stopped listening on port 64529
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605761228838	geckodriver	INFO	Listening on 127.0.0.1:58221
+1605761231935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileotZgsF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605761235249	Marionette	INFO	Listening on port 58229
+1605761235924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605761243414	Marionette	INFO	Stopped listening on port 58229
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605764159709	geckodriver	INFO	Listening on 127.0.0.1:58971
+1605764162762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilexVhgtT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605764166698	Marionette	INFO	Listening on port 58980
+1605764167132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1605764236239	Marionette	INFO	Stopped listening on port 58980
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605764237410	geckodriver	INFO	Listening on 127.0.0.1:59059
+1605764240467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileJURex0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605764243654	Marionette	INFO	Listening on port 59068
+1605764243765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 212: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1605764275289	Marionette	INFO	Stopped listening on port 59068
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605924908885	geckodriver	INFO	Listening on 127.0.0.1:50429
+1605924911996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilenx1QCb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605924925839	Marionette	INFO	Listening on port 50441
+1605924926328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605924937481	Marionette	INFO	Stopped listening on port 50441
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606049634962	geckodriver	INFO	Listening on 127.0.0.1:55509
+1606049638196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilee0cRa6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606049650195	Marionette	INFO	Listening on port 55519
+1606049650385	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7424, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1606049683168	Marionette	INFO	Stopped listening on port 55519
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606049684540	geckodriver	INFO	Listening on 127.0.0.1:55624
+1606049687619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofiles5Qsfu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606049690684	Marionette	INFO	Listening on port 55633
+1606049691197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 212: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1606049720094	Marionette	INFO	Stopped listening on port 55633
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606049731670	geckodriver	INFO	Listening on 127.0.0.1:55749
+1606049734777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileAlVWhZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606049738112	Marionette	INFO	Listening on port 55757
+1606049738216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606049747273	Marionette	INFO	Stopped listening on port 55757
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606117839995	geckodriver	INFO	Listening on 127.0.0.1:55167
+1606117843088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofilerTWdih"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606117847020	Marionette	INFO	Listening on port 55175
+1606117847538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606117853085	Marionette	INFO	Stopped listening on port 55175
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606117883570	geckodriver	INFO	Listening on 127.0.0.1:55251
+1606117886628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofile8zuoAN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606117890981	Marionette	INFO	Listening on port 55259
+1606117891079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606117903458	Marionette	INFO	Stopped listening on port 55259
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606117904765	geckodriver	INFO	Listening on 127.0.0.1:55329
+1606117907837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KKHATI~1\\AppData\\Local\\Temp\\rust_mozprofileH2lXmp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606117913693	Marionette	INFO	Listening on port 55353
+1606117914121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 212: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 50px tall: height=4
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://ntcovid19dash.herokuapp.com/_dash-component-suites/dash_core_components/async-plotlyjs.v1_10_2m1595872686.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1606117945199	Marionette	INFO	Stopped listening on port 55353
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

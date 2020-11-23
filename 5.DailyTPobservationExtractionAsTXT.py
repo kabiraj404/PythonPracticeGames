@@ -41,4 +41,9 @@ for r in range(1, rows+1):
 
 x.close()
 
-print("Thank you the data is inside the DHMdailey folder ordered by each day") 
+print("Thank you the data is inside the DHMdailey folder ordered by each day file name") 
+
+driver.close()
+driver.quit() 
+
+
